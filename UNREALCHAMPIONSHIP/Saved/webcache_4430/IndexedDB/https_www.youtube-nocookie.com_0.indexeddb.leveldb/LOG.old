@@ -1,0 +1,6 @@
+2024/08/07-02:15:20.403 20e4 Creating DB C:/Users/MACHENIKE/Documents/GitHub/UnrealChampionship/UNREALCHAMPIONSHIP/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/08/07-02:15:20.414 20e4 Reusing MANIFEST C:/Users/MACHENIKE/Documents/GitHub/UnrealChampionship/UNREALCHAMPIONSHIP/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/07-02:15:23.467 a3c Level-0 table #5: started
+2024/08/07-02:15:23.589 a3c Level-0 table #5: 1167 bytes OK
+2024/08/07-02:15:23.593 a3c Delete type=0 #3
+2024/08/07-02:15:23.594 a3c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
