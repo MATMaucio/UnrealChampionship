@@ -1326,3 +1326,43 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.08.07-06.37.25:902][701]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.08.07-06.37.25:925][701]LogContentValidation: Display: Validating asset /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
 [2024.08.07-06.37.25:925][701]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2024.08.07-06.37.53:183][824]LogShaderCompilers: Display: ================================================
+[2024.08.07-06.37.53:184][824]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.08.07-06.37.53:498][824]LogShaderCompilers: Display: Total job queries 166, among them cache hits 14 (8.43%), DDC hits 140 (84.34%), Duplicates 8 (4.82%)
+[2024.08.07-06.37.53:498][824]LogShaderCompilers: Display: Tracking 144 distinct input hashes that result in 139 distinct outputs (96.53%)
+[2024.08.07-06.37.53:498][824]LogShaderCompilers: Display: RAM used: 4,97 MiB of 819,20 MiB budget. Usage: 0.61%
+[2024.08.07-06.37.53:498][824]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.08.07-06.37.53:504][824]LogShaderCompilers: Display: Shaders Compiled: 4
+[2024.08.07-06.37.53:504][824]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100%)
+[2024.08.07-06.37.53:504][824]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.06 s
+[2024.08.07-06.37.53:504][824]LogShaderCompilers: Display: Job execution time: average 2.60 s, max 2.68 s
+[2024.08.07-06.37.53:504][824]LogShaderCompilers: Display: Job life time (pending + execution): average 2.66 s, max 2.74
+[2024.08.07-06.37.53:504][824]LogShaderCompilers: Display: Shader code size: average 33,492 KiB, min 32,641 KiB, max 34,137 KiB
+[2024.08.07-06.37.53:504][824]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.74 s
+[2024.08.07-06.37.53:504][824]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.09%
+[2024.08.07-06.37.53:504][824]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.08.07-06.37.53:505][824]LogShaderCompilers: Display: Average processing rate: 1.46 jobs/sec
+[2024.08.07-06.37.53:505][824]LogShaderCompilers: Display: Total thread time: 1,481 s
+[2024.08.07-06.37.53:505][824]LogShaderCompilers: Display: Total thread preprocess time: 2,627 s
+[2024.08.07-06.37.53:505][824]LogShaderCompilers: Display: Percentage time preprocessing: 177.39%
+[2024.08.07-06.37.53:505][824]LogShaderCompilers: Display: Effective parallelization: 0.54 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.08.07-06.37.53:505][824]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.08.07-06.37.53:505][824]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2024.08.07-06.37.53:505][824]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2024.08.07-06.37.53:505][824]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2024.08.07-06.37.53:505][824]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2024.08.07-06.37.53:505][824]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.08.07-06.37.53:505][824]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.08.07-06.37.53:505][824]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 30.87% of total time (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2024.08.07-06.37.53:505][824]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 23.86% of total time (compiled    1 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2024.08.07-06.37.53:505][824]LogShaderCompilers: Display:                                                 FLumenCardVS - 22.64% of total time (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2024.08.07-06.37.53:505][824]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.63% of total time (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2024.08.07-06.37.53:505][824]LogShaderCompilers: Display:                                        FCloudRenderViewPS100 - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.08.07-06.37.53:505][824]LogShaderCompilers: Display: === Material stats ===
+[2024.08.07-06.37.53:505][824]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.08.07-06.37.53:505][824]LogShaderCompilers: Display: Materials Translated:    120
+[2024.08.07-06.37.53:505][824]LogShaderCompilers: Display: Material Total Translate Time: 0.57 s
+[2024.08.07-06.37.53:505][824]LogShaderCompilers: Display: Material Translation Only: 0.03 s (5%)
+[2024.08.07-06.37.53:505][824]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2024.08.07-06.37.53:505][824]LogShaderCompilers: Display: Material Cache Hits: 3 (3%)
+[2024.08.07-06.37.53:505][824]LogShaderCompilers: Display: ================================================
