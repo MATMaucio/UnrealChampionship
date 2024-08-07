@@ -1307,3 +1307,22 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.08.07-06.36.11:164][892]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
 [2024.08.07-06.36.11:186][892]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
 [2024.08.07-06.36.11:246][893]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.08.07-06.37.07:022][703]LogSlate: Window 'View Changes' being destroyed
+[2024.08.07-06.37.07:043][703]LogSlate: Window 'View Changes' being destroyed
+[2024.08.07-06.37.15:172][156]LogSlate: Took 0.012994 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.08.07-06.37.20:504][456]Cmd: TRANSACTION UNDO
+[2024.08.07-06.37.20:504][456]LogEditorTransaction: Undo Clicking on Elements
+[2024.08.07-06.37.22:632][570]Cmd: TRANSACTION UNDO
+[2024.08.07-06.37.22:633][570]LogEditorTransaction: Undo Delete Elements
+[2024.08.07-06.37.25:257][701]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.07-06.37.25:454][701]LogPackageLocalizationCache: Processed 51 localized package path(s) for 1 prioritized culture(s) in 0.015048 seconds
+[2024.08.07-06.37.25:544][701]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB
+[2024.08.07-06.37.25:544][701]LogSavePackage: Moving 'C:/Users/MACHENIKE/Documents/GitHub/UnrealChampionship/UNREALCHAMPIONSHIP/Saved/1ZJ54FMA0DAL3I2Q8RFAIBCD2CCCBF4F5FBC102CBEF389B528EFD7.tmp' to 'C:/Users/MACHENIKE/Documents/GitHub/UnrealChampionship/UNREALCHAMPIONSHIP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset'
+[2024.08.07-06.37.25:792][701]LogFileHelpers: InternalPromptForCheckoutAndSave took 534.758 ms (total: 1.17 sec)
+[2024.08.07-06.37.25:902][701]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.07-06.37.25:902][701]LogContentValidation: Enabled validators:
+[2024.08.07-06.37.25:902][701]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.07-06.37.25:902][701]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.07-06.37.25:902][701]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.07-06.37.25:925][701]LogContentValidation: Display: Validating asset /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2024.08.07-06.37.25:925][701]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
